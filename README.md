@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a productivity app called Remindu + some small unity game projects
-- 🌱 I’m currently learning more about web app development
+- 🌱 I’m currently learning more about web app development + creative writing
+- 🌙 In my spare time I enjoy walking, kombucha chugging, reading about things that will never exist, and sleeping (I'm usually out like a light)
 - 😄 Pronouns: she/hers
-- in my spare time i enjoy vigourously walking, people watching, kombucha chugging, reading about things that will never exist, and sleeping (out like a light)
-- ⚡ Fun fact: my fav ice cream flavors are dad's cardamom by three twins and dalgona coffee by sweet alchemy
+- ⚡ Fun fact: my fav ice cream flavors are dad's cardamom by three twins and dalgona coffee by sweet alchemy. if you have the chance def reccommend checking out these flavors!
