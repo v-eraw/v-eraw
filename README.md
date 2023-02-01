@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a productivity/reminder app called Remindu + some small unity game projects
+- 🔭 I’m currently working on a productivity app called remindu + video game projects
 - 🥺 here's my itch.io if you're interested: https://pudding-catcat.itch.io/
-- 🌱 I’m currently learning more about web app development + creative writing + game design/development
-- 🌙 In my spare time I enjoy going on walks, chugging kombucha, spending time with friends + family, and sleeping
+- 🌱 I’m currently learning more about web app development, creative writing, design, + game design/development
+- 🌙 In my spare time I enjoy running, chugging kombucha, spending time in nature and with friends/family, and sleeping
 - 😄 Pronouns: she/hers
-- ⚡ Fun fact: my fav ice cream flavors are dad's cardamom by three twins and dalgona coffee by sweet alchemy. if you have the chance def reccommend checking out these flavors!
+- ⚡ Fun fact: my favorite ice cream flavors are rocky road and dalgona coffee, and I love harvest bowls
