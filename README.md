@@ -4,4 +4,4 @@ I was named after the fashion designer by a really cool cousin, but I'm not rela
 -  I'm also working on some hobby game projects in Unity and C#
 -  Here's my itch.io if you're interested in game projects: https://pudding-catcat.itch.io/
 -  I'm trying to run more, but also I love cafes, + spending time in nature with friends/family
--  Fun fact: big fan of hot fruit tea boba, matcha lattes, eggs benedicts, and top-down dungeon crawlers
+-  Fun fact: big fan of hot fruit tea boba, matcha lattes, egg benedicts, and top-down dungeon crawlers
