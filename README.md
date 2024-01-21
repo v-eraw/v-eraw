@@ -4,4 +4,4 @@ I was named after the fashion designer Vera Wang by a really cool cousin 😄
 -  I'm also working on some hobby game projects in Unity and C#
 -  Here's my itch.io if you're interested in game projects: https://pudding-catcat.itch.io/
 -  I'm trying to run more, but also I love cafes, + spending time in nature with friends/family
--  Fun fact: big fan of hot fruit tea boba, matcha lattes, egg benedicts, and top-down dungeon crawlers
+-  Fun facts: big fan of hot fruit tea boba, matcha lattes, egg benedicts, and top-down dungeon crawlers
